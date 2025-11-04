@@ -38,9 +38,9 @@ Soft-UE is a software prototype of [Ultra Ethernet](https://ultraethernet.org/) 
 ![CoreComponents](attachment/CoreComponents.png)
 
 - **SES (Semantic Sub-layer)**: Defines endpoint addressing, authorization, message types, protocols, and semantic header formats. Operating at the transaction level (messages or RMAs), this sub-layer breaks down each transaction into multiple packets for transmission.
-- **PDSManager**: Manages the full lifecycle of PDCs and coordinates all network I/O operations. When an SES request (REQ/RSP) is received, it schedules the appropriate PDC to perform the data transfer and handles packet mismatches as well as network-level exceptions.
+- **PDSManager**: Within PDS, some functions are general and others are specific to individual PDCs. Examples of general functions include the allocation of PDCs, the handling of error events that are not associated with a specific PDC, the assignment of SES packets to PDCs, etc. These services are provided by the PDS manager state machine.
 
-- **PDC (Packet Delivery Context)**: Handles the setup, teardown, and encapsulation of a single connection, maintaining sequence numbers and acknowledgments (ACKs) to ensure reliable, in-order delivery.
+- **PDC (Packet Delivery Context)**: A packet delivery context (PDC) is a dynamically established FEP-to-FEP connection that provides the context needed to implement reliability, ordering, duplicate packet elimination, and congestion management.
 
 ## Repository Structure
 
